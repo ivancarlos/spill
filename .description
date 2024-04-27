@@ -1,0 +1,1 @@
+spill is a program for creating set of symbolic links from one directory hierarchy which point to corresponding filenames in a separate directory hierarchy.
